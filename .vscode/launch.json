@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Si Thu Lin/Desktop/testing/testing-1",
-      "program": "c:/Users/Si Thu Lin/Desktop/testing/testing-1/build/Debug/outDebug",
+      "cwd": "c:/Users/Si Thu Lin/Desktop/testing/testing-2",
+      "program": "c:/Users/Si Thu Lin/Desktop/testing/testing-2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
